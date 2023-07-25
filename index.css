@@ -39,7 +39,6 @@ article{
 }
 footer{
     background-color: blueviolet;
-    position: fixed;
     bottom: 10px;
     width: 96%;
     border-radius: 6px;
